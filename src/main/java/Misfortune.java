@@ -11,7 +11,8 @@ public class Misfortune implements Runnable{
         Scanner sc = new Scanner(System.in);
         int choice  = -1;
 
-        while(choice == -1){
+        System.out.println("################################################");
+        do {
             System.out.printf("Test you fortune: (1) Left (2) Right : ");
             String input = sc.nextLine();
             try {
@@ -34,6 +35,8 @@ public class Misfortune implements Runnable{
                     System.out.println("nothing would happen.");
                     break;
             }
-        }
+        }while(choice == -1);
+        System.out.println("Slave computeSkill : "+slave.getComputeSkill());
+        System.out.println("################################################");
     }
 }
