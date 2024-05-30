@@ -61,7 +61,7 @@
 
 # 2. 스레드간 상호 작용할 수 있는 기능 구현
 
-<img src="![misfortune](https://github.com/100-hours-a-week/5-kevin-cli_async/assets/63594534/a9419531-0c3a-48cb-a8c8-bdee5feba66a)">
+<img src="https://github.com/100-hours-a-week/5-kevin-cli_async/assets/63594534/a9419531-0c3a-48cb-a8c8-bdee5feba66a">
 
 ## Misfortune 클래스 추가
 
