@@ -1,20 +1,12 @@
 # 7주차 async 과제 설명
 
-## 시연 영상
-
-전체적인 흐름
-
-[cli-async – SlaveWork.java [cli-async.main] 2024-05-27 10-31-20.mp4](7%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20async%20%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%86%E1%85%A7%E1%86%BC%20443575f6c3934ea5bff9b415699cdf78/cli-async__SlaveWork.java_cli-async.main_2024-05-27_10-31-20.mp4)
-
-1
-
 # 깃허브:
 
 [https://github.com/100-hours-a-week/5-kevin-cli_async](https://github.com/100-hours-a-week/5-kevin-cli_async)
 
 # 1. 간단한 스레드 구현
 
-[cli-async – SlaveWork.java [cli-async.main] 2024-05-28 11-04-42.mp4](7%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20async%20%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%86%E1%85%A7%E1%86%BC%20443575f6c3934ea5bff9b415699cdf78/cli-async__SlaveWork.java_cli-async.main_2024-05-28_11-04-42.mp4)
+<img src = "![weather](https://github.com/100-hours-a-week/5-kevin-cli_async/assets/63594534/1ca88077-636b-4341-98b7-edb648ae0e75)">
 
 ## Weather 클래스 추가
 
@@ -69,7 +61,7 @@
 
 # 2. 스레드간 상호 작용할 수 있는 기능 구현
 
-[cli-async – SlaveWork.java [cli-async.main] 2024-05-28 10-59-27.mp4](7%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20async%20%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%86%E1%85%A7%E1%86%BC%20443575f6c3934ea5bff9b415699cdf78/cli-async__SlaveWork.java_cli-async.main_2024-05-28_10-59-27.mp4)
+<img src="![misfortune](https://github.com/100-hours-a-week/5-kevin-cli_async/assets/63594534/a9419531-0c3a-48cb-a8c8-bdee5feba66a)">
 
 ## Misfortune 클래스 추가
 
