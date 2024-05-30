@@ -6,7 +6,7 @@
 
 # 1. 간단한 스레드 구현
 
-<img src = "![weather](https://github.com/100-hours-a-week/5-kevin-cli_async/assets/63594534/1ca88077-636b-4341-98b7-edb648ae0e75)">
+<img src = "https://github.com/100-hours-a-week/5-kevin-cli_async/assets/63594534/1ca88077-636b-4341-98b7-edb648ae0e75">
 
 ## Weather 클래스 추가
 
